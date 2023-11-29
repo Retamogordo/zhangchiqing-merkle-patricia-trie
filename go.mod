@@ -1,4 +1,4 @@
-module merkle-patrica-trie
+module merkle-patricia-trie
 
 go 1.18
 
